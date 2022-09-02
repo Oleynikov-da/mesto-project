@@ -3,7 +3,7 @@
 
 О проекте:
 Страница для хранения фотографий.
-[Ссылка на проект](https://oleynikov-da.github.io/mesto-project/)
+[Ссылка на проект](https://oleynikov-da.github.io/mesto-project/index.html)
 
 В проекте использованы:
 1. HTML5

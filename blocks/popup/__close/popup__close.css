@@ -4,14 +4,14 @@
   height: 32px;
   top: -40px;
   right: -40px;
+  box-sizing: border-box;
   background: transparent;
   background-image: url(../../../images/Close.png);
   background-position: center;
+  background-repeat: no-repeat;
   position: absolute;
   border: none;
   transition: opacity .5s linear;
-  background-repeat: no-repeat;
-  box-sizing: border-box;
 }
 
 .popup__close:hover {

@@ -5,19 +5,3 @@
   justify-content: space-between;
   column-gap: 18px;
 }
-
-.profile__avatar-wrapper:hover:before {
-  cursor: pointer;
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  color: aliceblue;
-  background-color: #000;
-  background-image: url(#);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 26px 26px;
-}
